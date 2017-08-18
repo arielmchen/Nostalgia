@@ -1,0 +1,23 @@
+.picHolder {
+	width:100%;
+	overflow: hidden;
+	display:inline-block;
+}
+
+div {
+	position:relative;
+}
+
+div.prev-button{
+	position:fixed;
+	height:50px;
+	width:50px;
+	top:200px;
+}
+div.next-button{
+	position:fixed;
+	height:50px;
+	right:15px;
+	top:200px;
+}
+
